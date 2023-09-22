@@ -1,2 +1,2 @@
-# Mitt-githubprojekt
+# Mitt-Projekt1
 HTML / CSS / JavaScript
